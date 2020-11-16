@@ -81,6 +81,10 @@ Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
 
 Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 
+## Some Useful Commands
+
+Create lazy loading module to app module  ex `ng g m home --route home --module=app`
+
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
